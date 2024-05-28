@@ -46,15 +46,14 @@
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-md-8 text-center">
-                <h4>Welcome to LaraMart ✨✨</h4>
+                <h4>Welcome to PrimeCart</h4>
                 <div class="underline  mx-auto">
                 </div>
                 <p>
-                    Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-                    Deserunt, dolor fugit impedit et doloremque debitis quis
-                    consequuntur consectetur minima quaerat id veritatis
-                    assumenda dolorem magnam odit explicabo, aperiam temporibus
-                    rerum ducimus enim inventore soluta. Harum nemo placeat iusto
+                    Temukan beragam pilihan produk terbaru dari merek-merek terkemuka di berbagai kategori,
+                     mulai dari fashion hingga teknologi dan peralatan rumah tangga. Dengan kurasi yang teliti 
+                     dan fokus pada tren terbaru, kami memastikan Anda selalu mendapatkan produk terbaik sesuai 
+                     dengan gaya hidup dan kebutuhan Anda.
                 </p>
             </div>
         </div>
@@ -170,7 +169,7 @@
     $('.four-carousel').owlCarousel({
         loop: true,
         margin: 10,
-        dots:false,
+        dots: false,
         nav: false,
         responsive: {
             0: {

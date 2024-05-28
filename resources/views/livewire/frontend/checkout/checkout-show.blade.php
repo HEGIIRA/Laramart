@@ -18,7 +18,7 @@
                             <span class="float-end">@rupiah($this->totalProductAmount)</span>
                         </h4>
                         <hr>
-                        <small>* Items will be delivered in 3 - 5 days.</small>
+                        <small>* Items wil are be delivered in 3 - 5 days.</small>
                         <br />
                         <small>* Tax and other charges are included ?</small>
                     </div>

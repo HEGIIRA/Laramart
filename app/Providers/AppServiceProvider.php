@@ -29,7 +29,7 @@ class AppServiceProvider extends ServiceProvider
 
         Paginator::useBootstrap();
         
-        $webSetting = Setting::first();
-        View::share('appSetting', $webSetting);
+        // $webSetting = Setting::first();
+        // View::share('appSetting', $webSetting);
     }
 }
